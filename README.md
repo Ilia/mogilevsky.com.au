@@ -10,5 +10,5 @@ If you are reading this, then you found my open sourced resume page. From a fron
 
 In short:
 
-![alt text](https://github.com/ilia/mogilevsky.com.au/blob/master/images/public/images/mogilevsky.com.au.drawio.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Ilia/mogilevsky.com.au/master/public/images/mogilevsky.com.au.drawio.png)
 
